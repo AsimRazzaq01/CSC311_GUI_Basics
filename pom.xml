@@ -80,7 +80,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>org.example.csc311_gui_basics/org.example.csc311_gui_basics.HelloApplication
+                            <mainClass>org.example.csc311_gui_basics/org.example.csc311_gui_basics.GUIApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
